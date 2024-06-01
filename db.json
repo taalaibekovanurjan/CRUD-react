@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "todoAuthor": "Евгений Лисицин",
+      "todoInfo": "Описание книги\nПока над Элькесдаленом и Шиммером сгущаются тучи, великая армия Возмездия лесных эльфов ударила по вольным городам. Государство драконов Астарум закрыло границы, напряженность между Эретинами достигла пика. Все больше сторон оказывается втянуто в войну всех против всех. И как поступить в такой ситуации Грею, взвалившему на свои плечи ответственность за целый народ?",
+      "todoImage": "https://cv9.litres.ru/pub/c/cover_415/69802492.webp",
+      "id": 2
+    },
+    {
+      "todoAuthor": "Robert Kiyosaki",
+      "todoInfo": "«Богатый папа, бедный папа» — книга американского бизнесмена японского происхождения Роберта Кийосаки и Шэрон Лектер. По мнению Кийосаки, люди всю жизнь борются за финансовое благополучие потому, что не знают законов, по которым работают деньги. В основу книги легли 2 различных принципа воспитания по вопросам, связанным с деньгами, которые получил Роберт от своего родного отца — государственного служащего, и от отца своего друга Майка — бизнесмена, который, по словам Кийосаки, впоследствии стал одним из самых богатых людей на Гавайских островах. Маленький Роберт выбрал путь, предложенный отцом своего друга («Богатым папой») и добился финансового благополучия. В 47 лет он «смог оставить свой бизнес и перейти на образовательное созидание».",
+      "todoImage": "https://2books.su/assets/img/covers/rich-dad-poor-dad-kiyosaki-robert.jpg",
+      "id": 3
+    },
+    {
+      "todoAuthor": "Patrick Read Johnson",
+      "todoInfo": "Evil King Freyne rules the country. He doesn't live by the Old Code. He kills dragons and peasants. Sir Bowen is the Knight of the Old Code and he hates the king. Bowen teaches young Prince Einon to fight. He hopes that the prince won't be as cruel as his father. One day King Freyne is riding through a village. He is killing the peasants and burning their houses. Suddenly he is attacked. The king dies. Prince Einon is seriously wounded. Queen Aislinn, his mother, asks the Great Dragon for help. The dragon agrees to save her son. But in return the prince must promise to be a good king and live by the Old Code. Prince Einon promises and the Great Dragon gives him half of his heart. But when Einon becomes king, he forgets about his own word. Sir Bowen thinks that the dragon's heart makes the new king so cruel.",
+      "todoImage": "https://english-e-reader.net/covers/Dragonheart-Patrick_Read_Johnson.jpg",
+      "id": 4
+    }
+  ]
+}
